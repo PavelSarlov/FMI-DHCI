@@ -1,2 +1,3 @@
 # FMI-DHCI
-FMI - Design of Human-Computer Interface
+
+Materials, homeworks and stuff during the course.
