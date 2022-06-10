@@ -1,0 +1,3 @@
+[submodule "practice/task5/Chess101"]
+	path = practice/task5/Chess101
+	url = git@github.com:MiroslavDionisiev/Chess101.git
